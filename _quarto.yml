@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sara L. Witt"
+  navbar:
+     background: secondary
+     search: true
+     left:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: About.qmd
+      - text: "CV"
+        file: CV.pdf
+      - text: "Bio"
+        file: Bio.qmd 
+      - text: "Research Interests"
+        file: Research Interests.qmd 
+      - text: "Contact"
+        file: Contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

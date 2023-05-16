@@ -1,0 +1,9 @@
+---
+title: "Welcome!"
+---
+
+I am a graduate student in biological sciences at Cal Poly Pomona.
+
+I have a background in bee biology, biological monitoring and plant identification, ecological restoration, and environmental education. I am currently studying the foraging behavior of squash bees in farms in Southern California.
+
+![Above: male squash bees in a pumpkin flower](bee1.JPG){width="300"}
