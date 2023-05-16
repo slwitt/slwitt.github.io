@@ -7,4 +7,4 @@ theme:
 
 I am a graduate student in biological sciences at Cal Poly Pomona. This website contains information about my past work and current research interests.
 
-![Above: native sweat bees on common rush (Juncus patens)](sweat%20bees.JPG){fig-alt="native sweat bees on gray rush (Juncus patens)"}
+![Above: native sweat bees on common rush (Juncus patens)](sweat%20bees.JPG){fig-alt="native sweat bees on gray rush (Juncus patens)" width="307"}
